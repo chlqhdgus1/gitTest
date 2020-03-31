@@ -11,7 +11,7 @@ public class MemberDao {
 	}
 	
 	public void deleteMember() {
-		System.out.println("회원의 정보를 삭제하였습니다.");
+		System.out.println("회원의 정보를 삭제하였습니다......");
 	}
 	
 }
