@@ -7,7 +7,7 @@ public class MemberDao {
 	}
 	
 	public void updateMember() {
-		System.out.println("업데이트합니다.");
+		System.out.println("업데이트합니다아.");
 	}
 	
 }
